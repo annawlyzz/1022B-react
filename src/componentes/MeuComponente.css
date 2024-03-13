@@ -1,0 +1,13 @@
+.header{
+    height: 30rem;
+    border: 0.2rem solid yellow;
+    display: flex;
+    align-items: center;
+    /*pading: 0px 30px;*/
+}
+.logo{
+    border: 0.2rem solid red;
+    margin-left: 3rem;
+    width: 20rem;
+    height: 20rem;
+}

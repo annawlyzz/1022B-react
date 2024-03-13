@@ -1,6 +1,13 @@
+html{
+    font-size: 62.5%;
+}
+body{
+    font-size: 1.6rem;
+    margin: 0px;
+}
 .nome{
-    color: purple
+    color: lightcoral
 }
 .sobrenome{
-    color: blueviolet
+    color: palevioletred
 }
